@@ -1,0 +1,4 @@
+INSTANCE,HOST
+DEV,localhost:1521/XEPBD1
+TEST,localhost:1521/XEPBD1
+PROD,localhost:1521/XEPBD1
